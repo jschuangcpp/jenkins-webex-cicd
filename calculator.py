@@ -8,9 +8,6 @@ def add(first, second):
 def subtract(first, second):
     return first - second
 
-def square(number):
-    return number * number
-
 def multiply(first, second):
     return first * second
 
